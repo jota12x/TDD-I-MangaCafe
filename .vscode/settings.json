@@ -1,0 +1,4 @@
+{
+    "jestrunner.jestCommand": "npm run test --",
+    "jestrunner.jestPath": "${workFolder}/manga-cafe-reservation/node-modules/jest/bin/jest.js",
+}
